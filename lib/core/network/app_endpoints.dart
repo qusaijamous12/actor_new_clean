@@ -1,0 +1,4 @@
+class AppEndpoints{
+  static const String baseUrl='https://rickandmortyapi.com/api';
+  static const String getCharacter='/character';
+}
